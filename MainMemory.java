@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class MainMemory {
     static Word[] memoryArr = new Word[1024];
 

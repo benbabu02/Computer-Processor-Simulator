@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class Bit {
 
     private Boolean bitValue;

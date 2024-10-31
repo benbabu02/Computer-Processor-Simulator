@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class Token {
     enum TokenType { // 35 tokens
         MATH, ADD, SUBTRACT, MULTIPLY, AND, OR, NOT, XOR, COPY, HALT, BRANCH, JUMP, CALL, PUSH, LOAD, RETURN, STORE,

@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class ALU {
     Word op1;
     Word op2;

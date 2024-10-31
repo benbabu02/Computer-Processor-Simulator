@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class L2Cache {
     private static Word[] cacheArr = new Word[32]; // cache size is 32 words
     private static Word[] givenAddresses = new Word[4]; // used to store each group of 8 words

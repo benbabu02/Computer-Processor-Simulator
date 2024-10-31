@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class InstructionCache {
     private static Word[] cacheArr = new Word[8]; // 8 words
     private static Word givenAddress; // additional word

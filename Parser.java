@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 import java.util.LinkedList;
 import java.util.Optional;
 

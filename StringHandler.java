@@ -1,5 +1,3 @@
-package csi404.assignment7;
-
 public class StringHandler {
     private String awkFile;
     private int index;
